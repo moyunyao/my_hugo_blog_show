@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on 演示站点</title>
+        <title>Pages on 我的blog</title>
         <link>https://example.com/page/</link>
-        <description>Recent content in Pages on 演示站点</description>
+        <description>Recent content in Pages on 我的blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
@@ -13,7 +13,8 @@
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
         <guid>https://example.com/archives/</guid>
-        <description></description>
+        <description>&lt;p&gt;achive&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Links</title>
