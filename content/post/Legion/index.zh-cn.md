@@ -1,9 +1,9 @@
 ---
 title: 棱镜
-description: 这是一个副标题
+description: 棱镜
 date: 2020-09-09
 atuher: myy
-slug: test-chinese
+slug: Legion
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
     - Test
