@@ -34,10 +34,35 @@
     <loc>https://example.com/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://example.com/tags/"
+                />
+  </url><url>
     <loc>https://example.com/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/%E9%A5%A5%E8%8D%92/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/p/test-chinese/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/%E6%A3%B1%E9%95%9C/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/page/</loc>
@@ -60,19 +85,6 @@
   </url><url>
     <loc>https://example.com/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/tags/"
-                />
   </url><url>
     <loc>https://example.com/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -101,17 +113,9 @@
     <loc>https://example.com/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/p/</loc>
-  </url><url>
     <loc>https://example.com/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>https://example.com/tags/%E9%A5%A5%E8%8D%92/</loc>
-  </url><url>
-    <loc>https://example.com/tags/%E6%A3%B1%E9%95%9C/</loc>
-  </url><url>
     <loc>https://example.com/search/</loc>
-  </url><url>
-    <loc>https://example.com/tags/%E6%B8%B8%E6%88%8F/</loc>
   </url><url>
     <loc>https://example.com/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
   </url>
