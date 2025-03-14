@@ -6,7 +6,7 @@
         <description>Recent content in Posts on 我的blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Example Person</copyright>
+        <copyright>MYY</copyright>
         <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Chinese Test</title>
         <link>https://example.com/p/test-chinese/</link>
@@ -424,6 +424,15 @@ $$</description>
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
+        </item>
+        <item>
+        <title></title>
+        <link>https://example.com/p/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/</guid>
+        <description>&lt;p&gt;《棱镜》是包含各个方面有趣内容的内容拓展mod，这也是其名字的由来，如光棱镜一般，折射出各种创意与想象。目前章节有[花香四溢·红]、[美味佳肴·橙]、[尘市蜃楼·黄]、[丰饶传说·绿]、[电闪雷鸣·青]、[祈雨祭·蓝]、[黯涌·紫]。新动植物、新料理、新道具、新的敌人，以及新的冒险，等你一览色彩！&lt;/p&gt;
+</description>
         </item>
         
     </channel>

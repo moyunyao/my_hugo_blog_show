@@ -13,6 +13,8 @@
 <meta property='og:type' content='article'><meta property='article:section' content='Page' />
 <meta name="twitter:title" content="关于">
 <meta name="twitter:description" content="This is a test page for i18n support.\n">
+    <link rel="shortcut icon" href="/favicon.ico" />
+
     </head>
     <body class="
     article-page
@@ -56,13 +58,13 @@
                     
                     
                         
-                        <img src="/img/avatar_hu_f509edb42ecc0ebd.png" width="300"
-                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                        <img src="/img/avatar_hu_aa049f142c6a430c.png" width="300"
+                            height="301" class="site-logo" loading="lazy" alt="Avatar">
                     
                 
                 </a>
                 
-                    <span class="emoji">🍥</span>
+                    <span class="emoji">😉</span>
                 
             </figure>
             
@@ -70,7 +72,7 @@
         
         <div class="site-meta">
             <h1 class="site-name"><a href="/">我的blog</a></h1>
-            <h2 class="site-description">演示说明</h2>
+            <h2 class="site-description">personal blog</h2>
         </div>
     </header><ol class="menu-social">
             
@@ -172,7 +174,7 @@
 
 
                 
-                <span>Archives</span>
+                <span>归档</span>
             </a>
         </li>
         
@@ -191,13 +193,13 @@
 
 
                 
-                <span>Search</span>
+                <span>搜索</span>
             </a>
         </li>
         
         
         <li >
-            <a href='/links/' >
+            <a href='/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/' >
                 
                 
                 
@@ -210,7 +212,7 @@
 
 
                 
-                <span>Links</span>
+                <span>友情链接</span>
             </a>
         </li>
         
@@ -233,9 +235,7 @@
                                 
                                     <option value="https://example.com/en/" >English</option>
                                 
-                                    <option value="https://example.com/" selected>中文</option>
-                                
-                                    <option value="https://example.com/ar/" >عربي</option>
+                                    <option value="https://example.com/" selected>简体中文</option>
                                 
                             </select>
                         </li>
@@ -342,6 +342,32 @@
 
 
     
+        <link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css"integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI&#43;WdtXRGWt2kTvGFasHpSy3SV"crossorigin="anonymous"
+            ><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"integrity="sha384-XjKyOOlGwcjNTAIQHIpgOno0Hl1YQqzUOEleOLALmuqehneUG&#43;vnGctmUb0ZY0l8"crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"integrity="sha384-&#43;VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4&#43;/RRE05"crossorigin="anonymous"
+                defer
+                >
+            </script><script>
+    window.addEventListener("DOMContentLoaded", () => {
+	const mainArticleElement = document.querySelector(".main-article");
+        renderMathInElement(mainArticleElement, {
+            delimiters: [
+                { left: "$$", right: "$$", display: true },
+                { left: "$", right: "$", display: false },
+                { left: "\\(", right: "\\)", display: false },
+                { left: "\\[", right: "\\]", display: true }
+            ],
+            ignoredClasses: ["gist"]
+        });})
+</script>
+
+    
 </article>
 
     
@@ -399,9 +425,7 @@
     <section class="copyright">
         &copy; 
         
-            2020 - 
-        
-        2025 Example Person
+        2025 MYY
     </section>
     
     <section class="powerby">

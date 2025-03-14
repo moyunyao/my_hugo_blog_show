@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>饥荒 on 我的blog</title>
+        <link>https://example.com/tags/%E9%A5%A5%E8%8D%92/</link>
+        <description>Recent content in 饥荒 on 我的blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>MYY</copyright><atom:link href="https://example.com/tags/%E9%A5%A5%E8%8D%92/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title></title>
+        <link>https://example.com/p/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/</guid>
+        <description>&lt;p&gt;《棱镜》是包含各个方面有趣内容的内容拓展mod，这也是其名字的由来，如光棱镜一般，折射出各种创意与想象。目前章节有[花香四溢·红]、[美味佳肴·橙]、[尘市蜃楼·黄]、[丰饶传说·绿]、[电闪雷鸣·青]、[祈雨祭·蓝]、[黯涌·紫]。新动植物、新料理、新道具、新的敌人，以及新的冒险，等你一览色彩！&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
